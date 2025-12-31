@@ -23,15 +23,15 @@ const Experience = () => {
           <ul className="space-y-3 text-gray-300 ml-12">
             <li className="flex items-start">
               <span className="text-blue-400 mr-2">▸</span>
-              <span>Studying Full-Stack Development using Microsoft .NET, ASP.NET Core, C#, and Python</span>
+              <span>Studying Full-Stack Development using Microsoft .NET, ASP.NET Core, and C#</span>
+            </li>
+            <li className="flex items-start">
+              <span className="text-blue-400 mr-2">▸</span>
+              <span>Gaining practical experience through hands-on projects and a real-world training phase performing industry-level tasks</span>
             </li>
             <li className="flex items-start">
               <span className="text-blue-400 mr-2">▸</span>
               <span>Learning key software engineering principles including SDLC, Agile/Scrum, and version control</span>
-            </li>
-            <li className="flex items-start">
-              <span className="text-blue-400 mr-2">▸</span>
-              <span>Studying Professional Cloud Software Development (Google Cloud)</span>
             </li>
             <li className="flex items-start">
               <span className="text-blue-400 mr-2">▸</span>

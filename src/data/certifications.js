@@ -1,5 +1,29 @@
 export const certifications = [
   {
+    name: 'CompTIA Cloud Admin Professional - CCAP',
+    date: 'Dec 2025',
+    issuer: 'CompTIA',
+    credlyUrl: 'https://www.credly.com/badges/bb9e99f4-c7aa-40be-813c-31dba2b8b494/public_url',
+    pdfUrl: '/certifications/comptia-ccAP.pdf',
+    badgeId: 'bb9e99f4-c7aa-40be-813c-31dba2b8b494',
+  },
+  {
+    name: 'CompTIA Secure Cloud Professional - CSCP',
+    date: 'Dec 2025',
+    issuer: 'CompTIA',
+    credlyUrl: 'https://www.credly.com/badges/0a5c2545-7542-4d8c-880d-59a3898fce88/public_url',
+    pdfUrl: '/certifications/comptia-csCP.pdf',
+    badgeId: '0a5c2545-7542-4d8c-880d-59a3898fce88',
+  },
+  {
+    name: 'CompTIA Cloud+',
+    date: 'Dec 2025 - Dec 2028',
+    issuer: 'CompTIA',
+    credlyUrl: 'https://www.credly.com/badges/b20ff09a-a59b-4881-9ca7-ad31b879ee27/public_url',
+    pdfUrl: '/certifications/comptia-cloud-plus.pdf',
+    badgeId: 'b20ff09a-a59b-4881-9ca7-ad31b879ee27',
+  },
+  {
     name: 'CompTIA Network Infrastructure Professional - CNIP',
     date: 'Dec 2025',
     issuer: 'CompTIA',

@@ -18,7 +18,7 @@ const About = () => {
             <div className="space-y-2 text-gray-300">
               <p className="font-semibold text-white">Bachelor of Science in Software Engineering</p>
               <p className="text-blue-300">Florida Institute of Technology</p>
-              <p>Melbourne, FL | Aug 2020 - Dec 2024</p>
+              <p>Melbourne FL, United States | Aug 2020 - Dec 2024</p>
               <p className="font-semibold mt-2">GPA: 3.08/4.0 | Dean's List (2021)</p>
             </div>
           </div>
@@ -38,9 +38,10 @@ const About = () => {
 
         <div className="mt-12 bg-slate-800/50 backdrop-blur-sm rounded-2xl p-8">
           <p className="text-lg text-gray-300 leading-relaxed">
-            Software Engineering graduate with a strong foundation in software development, networks, and operating systems. 
-            Proficient in multiple programming languages with hands-on experience in web and mobile development. 
-            Passionate about problem-solving, system efficiency, and digital transformation with a strong interest in cybersecurity.
+          Software Engineering graduate with a strong foundation in software development, networking, operating systems, and cloud infrastructure.
+          CompTIA Network+, Security+, Server+, and Cloud+ certified, demonstrating solid knowledge of network infrastructure, system security,
+          server environments, and cloud fundamentals. Experienced in C# and Java, with hands-on development using .NET and React. Motivated to
+          build reliable and secure systems, with a growing focus on infrastructure and cybersecurity, and a strong commitment to continuous learning.
           </p>
         </div>
       </div>
