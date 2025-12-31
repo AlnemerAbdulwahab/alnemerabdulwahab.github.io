@@ -40,7 +40,10 @@ Visit the live site: [alnemerabdulwahab.github.io](https://alnemerabdulwahab.git
 alnemerabdulwahab.github.io/
 ├── public/
 │   ├── certifications/           # PDF certificates
+│   │   ├── comptia-ccAP.pdf
+│   │   ├── comptia-cloud-plus.pdf
 │   │   ├── comptia-cnip.pdf
+│   │   ├── comptia-csCP.pdf
 │   │   ├── comptia-network-plus.pdf
 │   │   ├── comptia-security-plus.pdf
 │   │   └── comptia-server-plus.pdf
