@@ -12,7 +12,7 @@ export const projects = [
       liveUrl: 'https://alnemerabdulwahab.github.io/SubsTrack/'
     },
     {
-      title: 'Qiyas Qudrat Exam Practice App',
+      title: 'Qudratak - Qiyas Qudrat Exam Practice App',
       subtitle: 'Educational Mobile App',
       date: 'Aug 2024 - Sep 2024',
       tech: ['React Native', 'JavaScript', 'TypeScript', 'Figma'],
@@ -20,6 +20,8 @@ export const projects = [
         'Created exam practice app with randomized questions',
         'Built performance tracking system',
         'Delivered cross-platform prototype in one week'
-      ]
+      ],
+      liveUrl: 'https://github.com/AlnemerAbdulwahab/Qudratak-App-Showcase/'
     }
   ];
+  
