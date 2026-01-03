@@ -9,7 +9,7 @@ export const projects = [
         'Implemented intelligent renewal reminder system',
         'Built cost tracking and budgeting tools'
       ],
-      liveUrl: 'https://alnemerabdulwahab.github.io/SubsTrack/'
+      liveUrl: 'https://github.com/AlnemerAbdulwahab/Substrack-App-Showcase'
     },
     {
       title: 'Qudratak - Qiyas Qudrat Exam Practice App',
