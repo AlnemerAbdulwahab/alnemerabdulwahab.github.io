@@ -16,7 +16,7 @@ const Experience = () => {
             <div className="flex-1">
               <h3 className="text-2xl font-bold mb-2">Software Development Bootcamp</h3>
               <p className="text-blue-300 font-semibold">Tuwaiq Academy | أكاديمية طويق</p>
-              <p className="text-gray-400">Sep 2025 - Present | Riyadh, Saudi Arabia</p>
+              <p className="text-gray-400">Sep 2025 - Jan 2026 | Riyadh, Saudi Arabia</p>
             </div>
           </div>
           
